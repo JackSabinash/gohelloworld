@@ -1,3 +1,3 @@
-module github.pie.apple.com/jsabinash/gohelloworld
+module gohelloworld
 
 go 1.18
